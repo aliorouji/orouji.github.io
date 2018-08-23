@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ali Orouji</title>
+    <link>https://orouji.github.io/blog/</link>
+    <description>Recent content in Blog on Ali Orouji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 23 Aug 2018 05:46:05 +0430</lastBuildDate>
+    
+	<atom:link href="https://orouji.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Journey so far - Part 1</title>
+      <link>https://orouji.github.io/blog/my-journey-so-far---part-1/</link>
+      <pubDate>Thu, 23 Aug 2018 05:46:05 +0430</pubDate>
+      
+      <guid>https://orouji.github.io/blog/my-journey-so-far---part-1/</guid>
+      <description>I got my first computer when I was 12, but did nothing with it but to play video games until I was 14. In that time, there was a growing culture of blogging among Iranian youth and I also created my own blog on a local blogging platform (Blogfa) to write about things like video games, tech news, etc. Needing to customize the appearance and functionality of my blog, I became familiar with HTML and Javascript.</description>
+    </item>
+    
+  </channel>
+</rss>

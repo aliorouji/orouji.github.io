@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://orouji.github.io/blog/my-journey-so-far---part-1/</loc>
+    <lastmod>2018-08-23T05:46:05+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orouji.github.io/about/</loc>
+    <lastmod>2018-08-23T05:45:42+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orouji.github.io/</loc>
+    <lastmod>2018-08-23T05:46:05+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://orouji.github.io/blog/</loc>
+    <lastmod>2018-08-23T05:46:05+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://orouji.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://orouji.github.io/fixed/</loc>
+    <lastmod>2018-08-23T05:45:42+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://orouji.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
